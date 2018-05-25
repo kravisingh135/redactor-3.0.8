@@ -1,0 +1,26 @@
+{
+  "name": "angular-redactor",
+  "main": [
+      "angular-redactor.js",
+      "redactor/redactor.min.js",
+      "redactor/redactor-plugins/**.js",
+      "redactor/redactor.css"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/997204035/angular-redactor",
+  "authors": [
+    "]"
+  ],
+  "description": "angular redactor",
+  "keywords": [
+    "redactor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

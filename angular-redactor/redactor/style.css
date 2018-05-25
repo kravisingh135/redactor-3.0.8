@@ -1,0 +1,39 @@
+#redactor-image-manager-box .rte-cs-images .rte-img-ch .name .asset-preview {
+    height: 85px;
+    position: relative;
+    text-align: center;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+}
+#redactor-image-manager-box .rte-cs-images .rte-img-ch {
+    border: 1px solid #e8eced;
+    background-color: #fff;
+    text-align: left;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    width: 165px;
+    float: left;
+    margin: 0 10px 15px 0;
+    cursor: pointer;
+    display: block;
+}
+#redactor-image-manager-box .rte-cs-images .rte-img-ch .name span+span {
+    display: block;
+    background-color: #fbfcfe;
+    padding: 10px 10px 10px 15px;
+    border-top: 1px solid #e8eced;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #748590;
+    font-size: 13px;
+}
+#redactor-image-manager-box .rte-cs-images .rte-img-ch:hover {
+    border: 1px solid #10C3A3;
+}
+#redactor-image-manager-box .rte-cs-images .rte-img-ch.active {
+    border: 1px solid #10C3A3;
+}

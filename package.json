@@ -1,0 +1,15 @@
+{
+  "name": "redactor-2.6-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aiq": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
